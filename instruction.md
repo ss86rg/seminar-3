@@ -20,10 +20,12 @@
  - git commit -m 'massege'
  ## сохранение файлов с написанием в терминале сообщения одной строкой. 
  - git commit -a
- - git commit -am 'massedge'
+ - git commit -am 'massadge'
  ## сохранение фалов с сообщением в одну строку.
- - git log
- - git log --oneline
+ - git log 
+ ## отбражение информации что сделано, что сохранено
+ - git log --oneline 
+## отображение краткой информации о commit
  - git log --all
  - git log --oneline --all
  - git checkout \<hash>
