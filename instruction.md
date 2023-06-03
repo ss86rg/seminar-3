@@ -29,6 +29,8 @@
  - git log --all
  - git log --oneline --all
  - git checkout \<hash>
+ ## возврат к предыдущему действиям  
  - git checkout master
+ ##  вернуть все действия которые производил в репозитории 
  - git diff
  - git diff \<hash1> \ <hash2>
